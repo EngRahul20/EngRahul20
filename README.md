@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Rahul Roy
+# 👋 Hi, I'm Rahul
 
-🎓 CSE Graduate | 💻 Full-Stack Developer | 🇧🇩 Khulna, Bangladesh  
+ | 💻 Full-Stack Developer | 🇧🇩 Khulna, Bangladesh  
 💼 Open for Freelance Work
 
 ---
