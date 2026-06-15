@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahul
 
- | 💻 Full-Stack Developer | 🇧🇩 Khulna, Bangladesh  
+ 💻 Full-Stack Developer | 🇧🇩 Khulna, Bangladesh  
 💼 Open for Freelance Work
 
 ---
